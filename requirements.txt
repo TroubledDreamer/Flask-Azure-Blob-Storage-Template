@@ -1,0 +1,4 @@
+Flask
+Werkzeug
+azure-storage-blob
+python-dotenv
